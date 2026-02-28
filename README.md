@@ -3,13 +3,13 @@
 🎯 Statistical Programmer    
 💡 Open-Source Advocate  
 
-## About Me
+### About Me
 
-Experienced statistical programmer with experience in the area of medical nutrition, pharma & vaccines.
+🌱 Statistical programmer with experience in the area of medical nutrition, pharma & vaccines.
 
-## Current Focus
+### Current Focus
 
-- Building reproducible analytics pipelines with open source tools
+📊 Building reproducible analytics workflows with open source tools & the help of llms.
   
 <!--
 **SShankar-ssh/SShankar-ssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
