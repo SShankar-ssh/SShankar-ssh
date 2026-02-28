@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🎯 Statistical Programmer    
-💡 Open-Source Advocate  
+📊 Statistical Programmer    
+🌐 Open-Source Advocate  
 
 ### About Me
 
@@ -9,7 +9,7 @@
 
 ### Current Focus
 
-📊 Building reproducible analytics workflows with open source tools & the help of LLMs.
+🎯 Building reproducible analytics workflows with open source tools & the help of LLMs.
   
 <!--
 **SShankar-ssh/SShankar-ssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
