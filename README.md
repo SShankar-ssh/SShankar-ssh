@@ -3,13 +3,9 @@
 🎯 Statistical Programmer    
 💡 Open-Source Advocate  
 
----
-
 ## About Me
 
 Experienced statistical programmer with experience in the area of medical nutrition, pharma & vaccines.
-
----
 
 ## Current Focus
 
