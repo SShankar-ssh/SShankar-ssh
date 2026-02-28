@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+🎯 Statistical Programmer 
+🌱 Background in Nutritional Epidemiology     
+💡 Open-Source Advocate  
+
+- 🔭 I’m currently working on clinical programming activities in SAS and R.
+- 🌱 I’m currently learning ...
+
+
 <!--
 **SShankar-ssh/SShankar-ssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
