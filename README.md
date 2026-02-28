@@ -1,13 +1,20 @@
 ## Hi there 👋
 
-🎯 Statistical Programmer 
-🌱 Background in Nutritional Epidemiology     
+🎯 Statistical Programmer    
 💡 Open-Source Advocate  
 
-- 🔭 I’m currently working on clinical programming activities in SAS and R.
-- 🌱 I’m currently learning ...
+---
 
+## About Me
 
+Experienced statistical programmer with experience in the area of medical nutrition, pharma & vaccines.
+
+---
+
+## Current Focus
+
+- Building reproducible analytics pipelines with open source tools
+  
 <!--
 **SShankar-ssh/SShankar-ssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
